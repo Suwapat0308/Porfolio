@@ -8,7 +8,7 @@
 }
 .title{
   color: var(--color-text);
-  font-size: 50px;
+  font-size: 32px;
   font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -42,10 +42,10 @@
   height: 150px;
 }
 .skillImg img{
-  width: 120px;
+  width: 100px;
 }
 .skill p{
-  font-size: 25px;
+  font-size: 20px;
   font-family: var(--font-roboto);
   font-weight: 500;
 }
@@ -77,7 +77,7 @@
 } 
 
 .historyItemDetails h3{
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 600;
 } 
 .historyItemDetails p{
@@ -87,7 +87,7 @@
 .historyItemDetails ul{
   margin-top: 10px;
   list-style: inside;
-  font-size: 18px;
+  font-size: 16px;
   margin-left: 17px;
   list-style-type: square;
 } 
