@@ -1,0 +1,38 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Fujitsu (Thailand) Co., Ltd.",
+      "startDate": "July, 2020",
+      "endDate": "Mar, 2021",
+      "experiences": ["Outsource for TOYOTA Connected Asia Pacific Ltd. Monitoring AWSsystem for database of server. Frist step for take action of IT operationcustomer support about application (T-connect). Analyze problems thateffect users and find countermeasure."],
+      "imageSrc": "history/systemeng.png"
+    },
+    {
+      "role": "Maintenance Engineer",
+      "organisation": "Seagate Technology",
+      "startDate": "Mar, 2021",
+      "endDate": "June, 2023",
+      "experiences": ["Planning and undertaking scheduled maintenance of machine and respondingto breakdowns.", 
+            "Setting and tracking maintenance KPIs by automaticlly (analyzed from machinelog file).",
+            "Maintain and improve OEE by using sig sixma concept and statistics control.",
+            "Analyze data including parameters of machine and analyze data to monitormachine performance by using Tableau ,SQL and KNIME tools.",
+            "DOE to improve and optimize process.",
+            "Control DOS of spare parts.",
+            "Perform FMEA to review overall process and identify potential failure modes."],
+      "imageSrc": "history/seagate.jpg"
+    },
+    {
+      "role": "Calibration and quality engineer",
+      "organisation": "UTAC (Thailand) Ltd.",
+      "startDate": "June, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Perform calibration, adjustment, and verification of various types ofmeasurement instruments and equipment, such as pressure gauges,temperature sensors, flow meters, and electrical devices, to ensure theiraccuracy and reliability refer ISO/IEC 17025.",
+        "Maintain comprehensive records of calibration activities, including calibrationprocedures, results, and equipment history. Ensure that all documentationmeets regulatory and quality standards.",
+        "Identify and resolve calibration-related issues, including diagnosing andrepairing equipment when necessary. Collaborate with maintenance andengineering teams to address technical problems.",
+        "Ensure that calibration processes comply with industry standards, regulations,and company policies. Implement and update calibration procedures as neededto maintain high-quality standards.",
+        "Train and mentor technicians and other personnel on calibration techniques,procedures, and best practices. Ensure that calibration technicians arecompetent and adhere to established standards."
+      ],
+      "imageSrc": "history/utac.jpg"
+    }
+  ]

@@ -1,0 +1,30 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html-svg.svg"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.svg"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react-svg.svg"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python-svg.svg"
+    },
+    {
+      "title": "Tableau",
+      "imageSrc": "skills/tableau.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "JMP",
+      "imageSrc": "skills/jmp.jpg"
+    }
+  ]
