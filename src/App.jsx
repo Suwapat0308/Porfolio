@@ -2,9 +2,10 @@
 import styles from './App.module.css';
 import { About } from './components/About/About';
 import { Contact } from './components/Contact/Contact';
-import { Experiance } from './components/Experiance/Experiance';
+import { Experience } from './components/Experience/Experience';
 import { Hero } from './components/Hero/Hero';
 import { Navbar } from './components/Navbar/Navbar';
+import { Project } from './components/Project/Project';
 
 function App() {
   
@@ -14,7 +15,8 @@ function App() {
       <Navbar/>
       <Hero/>
       <About/>
-      <Experiance/>
+      <Experience/>
+      <Project/>
       <Contact/>
     </div>
   )

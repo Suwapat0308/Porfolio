@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Improve machine OEE by using data analysis",
+      "imageSrc": "projects/projectA.png",
+      "description": "Detect the failure and downtime to improve overall equipment efficiency.",
+      "skills": ["Tableau", "KNIME", "Power automate"]
+    
+    },
+    {
+      "title": "Monitor and analyze machine performance",
+      "imageSrc": "projects/projectB.png",
+      "description": "Real time monitoring of machine performance by using SPC (Statistical Process Control)  concept.",
+      "skills": ["SQL", "Python", "Knime", "Tableau"]
+    
+    },
+    {
+      "title": "Machine learning for part quality control",
+      "imageSrc": "projects/projectC.png",
+      "description": "Improve efficiency and productivity of visually inspect incoming part.",
+      "skills": ["Cira core", "Machine learning", "Image processing"]
+    
+    }
+  ]
