@@ -7,11 +7,15 @@
     background: linear-gradient(100deg, #117A65  0%, #0B5345 100%);
     box-shadow: 0 16px 14px 0 #013127;
     padding: 18px 24px;
-    max-width: 345px;
+    /* max-width: 345px;
+    max-height: 700px; */
+    width: 345px;
+    height: 400px;
 }
 
 .image {
     margin-bottom: 26px;
+    
 }
 
 .title {
