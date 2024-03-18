@@ -19,5 +19,18 @@
       "description": "Improve efficiency and productivity of visually inspect incoming part.",
       "skills": ["Cira core", "Machine learning", "Image processing"]
     
+    },
+    {
+      "title": "Machine auto triggering",
+      "imageSrc": "projects/projectD.png",
+      "description": "Auto triggering if machine operates abnormal which can impact to quality issue.",
+      "skills": ["R", "JMP", "KNIME"]
+    
+    },
+    {
+      "title": "Improve calibration process",
+      "imageSrc": "projects/projectE.png",
+      "description": "Save cost 317,600 baht per year and save lead time to 2 hours per item (total 3,380 hours).",
+      "skills": ["ISO17025", "ROI", "Calibration"]
     }
   ]
